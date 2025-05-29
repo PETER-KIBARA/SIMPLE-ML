@@ -44,7 +44,7 @@ This system employs several agents working together:
 
 Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
+https://github.com/PETER-KIBARA/SIMPLE-ML.git
 cd ai-hedge-fund
 ```
 
