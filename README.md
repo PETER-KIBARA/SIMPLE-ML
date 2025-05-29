@@ -85,7 +85,7 @@ FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/virattt/ai-hedge-fund.git
+https://github.com/PETER-KIBARA/SIMPLE-ML.git
 cd ai-hedge-fund
 ```
 
